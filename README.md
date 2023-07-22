@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a code for a simple basic get randon quote project.
+
+I created an interesting react project from scratch - A React Advice App. i used React on the front end and  make get requests to Advice Slip JSON API.
+
+I used axios to get data from api and React useState and useEffect to render API response.
 
 ## Available Scripts
 
